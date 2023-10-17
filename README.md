@@ -37,5 +37,5 @@ This project is open-source and is licensed under the [MIT License](LICENSE). Fe
 ---
 
 <p align="center">
-  Created with ❤️ by [Your Name](https://github.com/Kamadarada)
+  Created with ❤️ by Felipe Kamada(https://github.com/Kamadarada)
 </p>
