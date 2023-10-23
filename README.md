@@ -26,10 +26,6 @@
 4. **Initialize Prisma**: Execute `yarn prisma generate` to generate Prisma client code.
 5. **Start the Application**: Launch your Node.js application using `yarn start`.
 
-## Contributions Welcome 🤝
-
-We welcome contributions from the community! Whether it's code improvements, bug fixes, or feature additions, we appreciate your help in making this project even better.
-
 ## License 📝
 
 This project is open-source and is licensed under the [MIT License](LICENSE). Feel free to use and adapt it for your needs.
