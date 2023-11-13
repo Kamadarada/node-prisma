@@ -7,7 +7,7 @@ app.use(router)
 
 
 app.get('/',(req,res)=>{
-    res.status(200).send("Connected at port 3000")
+    res.status(200).send("Connected on port 3000")
 })
 
 export default app;
